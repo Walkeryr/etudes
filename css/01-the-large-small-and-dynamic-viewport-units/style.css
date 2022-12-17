@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: sans-serif;
+  color: white;
+}
+
+div {
+  height: 100lvh;
+  background: rebeccapurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+}
+
+p {
+  font-size: 18px;
+}
